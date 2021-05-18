@@ -7,4 +7,4 @@ I have contained all the helpful articles which are helping me understand concep
 [👀 Declaration and Definition of Namespaces in different files](https://www.learncpp.com/cpp-tutorial/user-defined-namespaces/)
 
 ## STL elements
-[GFG STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/?ref=lbp)
+[👀 GFG STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/?ref=lbp)
